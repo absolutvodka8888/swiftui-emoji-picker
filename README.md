@@ -1,5 +1,7 @@
 # swiftui-emoji-picker
 
+EmojiPicker is a simple and user-friendly library that allows you to integrate an emoji picker into your SwiftUI applications. This library provides an intuitive and rich user interface, enabling users to easily browse and select emojis within your app.
+
 ## Demo Screen
 
 ![Demo Image](./images/image1.png)

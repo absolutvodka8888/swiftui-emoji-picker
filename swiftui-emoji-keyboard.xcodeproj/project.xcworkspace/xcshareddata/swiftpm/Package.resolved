@@ -1,0 +1,15 @@
+{
+  "originHash" : "78cb16c2c1e5efde989c6744ed39bc12c9f08364377caf90d53f176e8ed4ccf6",
+  "pins" : [
+    {
+      "identity" : "emojipicker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/htmlprogrammist/EmojiPicker",
+      "state" : {
+        "revision" : "6018bd985b01d2355a635569cc702e8a337ed0a1",
+        "version" : "3.0.9"
+      }
+    }
+  ],
+  "version" : 3
+}
